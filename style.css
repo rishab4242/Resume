@@ -1,0 +1,93 @@
+.top-container {
+    background-color: #e4f9f5;
+    padding-top: 10px;
+}
+
+#left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.profile-img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.hello {
+    color: skyblue;
+}
+
+
+.skills {
+    color: skyblue;
+    text-align: center;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+
+.coding h3 {
+    color: #11999e;
+}
+
+.gym-challenge h3 {
+    color: #11999e;
+}
+
+.bottom-container {
+    text-align: center;
+}
+
+.bottom-container h1 {
+    color: skyblue;
+}
+
+.bottom-container h3 {
+    color: #11999e;
+}
+
+.btn {
+    background-color: #11cdd4;
+}
+
+
+
+.footer-container {
+    background-color: #66bfbf;
+}
+.footer-container a {
+    color: #11999e;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 15px;
+}
+
+.footer-container p {
+    color: #fff;
+    text-align: center;
+}
+
+.Linkdin:hover {
+    color: #fff;
+}
+
+.Twitter:hover {
+    color: #fff;
+}
+
+.Website:hover {
+    color: #fff;
+}
+
+
+
